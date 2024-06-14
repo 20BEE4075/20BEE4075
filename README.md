@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sakthivel
+- 👀 I’m interested in Database Management System
+- 🌱 I’m currently learning MySQL, Java and C Programming
+- 📫 How to reach me - Reach at email: sakthivelmanju02@gmail.com
+- During my academic journey, I had the chance to engage with projects such as 'Regulation of power factor with fuse failure and tariff monitoring,' which allowed me to develop and apply my IoT knowledge.	
+- key achievements was publishing a research paper titled 'Enhancing Power Quality in a Solar Powered Bidirectional Smart Grid with Electric Vehicle Integration,' which was published in the IEEE Xplore Digital Library.
+- I enrolled in a Pega course during my studies to improve my software skills.I completed my Pega CSA and CSSA certifications.
